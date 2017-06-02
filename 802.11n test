@@ -1,0 +1,16 @@
+This is for test! I am zhang yinge. Thnak you!
+
+
+basic service area (BSA): The area containing the members of a basic service set (BSS). It might contain
+members of other BSSs.
+basic service set (BSS): A set of stations (STAs) that have successfully synchronized using the JOIN
+service primitives14 and one STA that has used the START primitive. Alternatively, a set of STAs that have
+used the START primitive specifying matching mesh profiles where the match of the mesh profiles has been
+verified via the scanning procedure. Membership in a BSS does not imply that wireless communication with
+all other members of the BSS is possible.
+basic service set (BSS) transition: A station (STA) movement from one BSS to another BSS in the same
+extended service set (ESS).
+beamformee: A station (STA) that receives a physical layer convergence procedure (PLCP) protocol data
+unit (PPDU) that was transmitted using a beamforming steering matrix.
+beamformer: A station (STA) that transmits a physical layer convergence procedure (PLCP) protocol data
+unit (PPDU) using a beamforming steering matrix.
