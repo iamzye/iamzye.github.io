@@ -1,6 +1,6 @@
-![我]（https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496508034397&di=493240d2a9e0662d61945f18d8aec639&imgtype=0&src=http%3A%2F%2Fv1.qzone.cc%2Favatar%2F201508%2F18%2F21%2F43%2F55d3366dd263b601.jpg%2521200x200.jpg）
-# 张英娥
 
+# 张英娥
+<i class="icon-pencil"></i> 
 # 联系方式
 - <i class="icon-phone-sign"></i> 手机：15811808026（深圳）
 - <i class="icon-envelope"></i> Email：iamzye@foxmail.com
@@ -69,9 +69,9 @@
 真，stm32硬件开发，对C语言，ADS与CAD建模软件，Arduino开发板有一定的了解。
 ---
 # <i class="icon-trophy"></i>奖项荣誉
-1.优秀新生奖学金 ；
-2.连续三年获得南方科技大学初创奖学金全奖；
-3.南方科技大学优秀团委；
-4.南方科技大学校首届优秀奖学金二等奖；
-5.社会实践活动两次获奖，分别是一等奖和二等奖;
----
+-1.优秀新生奖学金 ；
+-2.连续三年获得南方科技大学初创奖学金全奖；
+-3.南方科技大学优秀团委；
+-4.南方科技大学校首届优秀奖学金二等奖；
+-5.社会实践活动两次获奖，分别是一等奖和二等奖;
+
