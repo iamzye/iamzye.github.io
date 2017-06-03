@@ -1,4 +1,4 @@
-![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
+
 # 张英娥
 <i class="icon-pencil"></i> 
 # 联系方式
