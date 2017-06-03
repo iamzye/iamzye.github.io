@@ -1,4 +1,4 @@
-
+![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
 # 张英娥
 <i class="icon-pencil"></i> 
 # 联系方式
@@ -59,7 +59,7 @@
 项目结果： 将写好的代码烧录到Arduino开发板上，开发板用充电宝供电，当满足条件（刷有身份标识
 的卡，输入正确的密码，遥控）时，开发板响应并给供电给舵机旋转，舵机旋转180度就能开门。
 
----
+
 # <i class="icon-thumbs-up"></i>技能清单
 
 以下均为我熟练使用的技能
@@ -67,7 +67,7 @@
 语言技能：大学生英语四六级证书；
 专业技能：熟练掌握java语言，基本的office办公软件，Labview/Matlab编程软件，CST软件仿
 真，stm32硬件开发，对C语言，ADS与CAD建模软件，Arduino开发板有一定的了解。
----
+
 # <i class="icon-trophy"></i>奖项荣誉
 -1.优秀新生奖学金 ；
 -2.连续三年获得南方科技大学初创奖学金全奖；
